@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693154006367",
+    "project_id": "dharims-886b0",
+    "storage_bucket": "dharims-886b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693154006367:android:eff3024e18e6e7cae322ea",
+        "android_client_info": {
+          "package_name": "go.fitnesszone.dharims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693154006367-u6iporkp85jgpq1i9d4fctaglp53vpgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5zIb83mrd6SvDMgtdIzwioG93v_oa6ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693154006367-u6iporkp85jgpq1i9d4fctaglp53vpgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
